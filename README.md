@@ -1,2 +1,61 @@
-# Trabalho-de-Conclus-o-de-Curso-TCC-
-UniTrans: Sistema de Gerenciamento de Transporte Universitário”, apresentado por Jean Lucas Serpa Santos em 2025, como requisito parcial para a obtenção do título de Bacharel em Sistemas de Informação pelo Centro Universitário Avantis – UNIAVAN.
+🧑‍🎓 Trabalho de Conclusão de Curso (TCC)
+📘 Título
+
+UniTrans: Sistema de Gerenciamento de Transporte Universitário
+
+👤 Autor
+
+Jean Lucas Serpa Santos
+Curso de Sistemas de Informação
+Centro Universitário Avantis – UNIAVAN
+
+🎓 Ano da Defesa
+
+2025
+
+🗂️ Estrutura do Repositório
+🧩 Descrição
+
+Este repositório contém os materiais desenvolvidos no âmbito do Trabalho de Conclusão de Curso (TCC) intitulado:
+
+"UniTrans: Sistema de Gerenciamento de Transporte Universitário", apresentado por Jean Lucas Serpa Santos em 2025, como requisito parcial para a obtenção do título de Bacharel em Sistemas de Informação pelo Centro Universitário Avantis – UNIAVAN.
+
+O projeto UniTrans foi desenvolvido com o objetivo de otimizar o gerenciamento do transporte universitário, oferecendo uma plataforma web que conecta alunos, motoristas e administradores de forma integrada.
+A aplicação permite o cadastro e validação de usuários, controle de viagens e passageiros, confirmação de embarque e desembarque via QR Code e monitoramento em tempo real das linhas ativas, promovendo mais organização, transparência e eficiência no transporte estudantil.
+
+O repositório inclui o código-fonte completo do sistema, materiais de apoio, apresentações e referências bibliográficas utilizadas ao longo do desenvolvimento do trabalho.
+
+⚙️ Como Utilizar o Código
+
+Acesse a pasta Código-Fonte.
+
+Consulte o arquivo README interno (se houver) para instruções de execução.
+
+Caso o projeto utilize dependências, verifique o arquivo package.json (Node.js) ou instruções específicas de instalação.
+
+Execute os comandos indicados para iniciar o backend e o frontend localmente.
+
+📚 Referência Sugerida
+
+Se este trabalho for utilizado em pesquisas ou projetos, cite da seguinte forma:
+
+SANTOS, Jean Lucas Serpa. UniTrans: Sistema de Gerenciamento de Transporte Universitário.
+Trabalho de Conclusão de Curso (Bacharelado em Sistemas de Informação) — Centro Universitário Avantis – UNIAVAN, 2025.
+
+🧾 Licença e Transferência
+
+Este repositório está licenciado sob os termos da Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0).
+Você pode baixar, modificar e utilizar este conteúdo desde que cite a fonte e não o utilize para fins comerciais.
+
+Ao término do Trabalho de Conclusão de Curso (TCC), este repositório será transferido à instituição de ensino como parte do acervo acadêmico permanente.
+
+A identificação oficial do repositório segue o padrão:
+
+2025.2.Santos (defesa no 2º semestre de 2025)
+
+📬 Contato
+
+📧 jeanlucas.dev@outlook.com
+
+📍 Penha – SC, Brasil
+🌐 https://github.com/jeanserpa21

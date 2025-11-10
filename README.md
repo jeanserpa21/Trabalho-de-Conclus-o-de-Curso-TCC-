@@ -40,9 +40,9 @@ O repositório inclui o **código-fonte completo** do sistema, **materiais de ap
 
 ---
 
-## 📚 Referência sugerida
+## 📚 Referência 
 
-Se este trabalho for utilizado em pesquisas ou projetos, cite da seguinte forma:
+
 
 > **SANTOS, Jean Lucas Serpa.** *UniTrans: Sistema de Gerenciamento de Transporte Universitário.*  
 > Trabalho de Conclusão de Curso (Bacharelado em Sistemas de Informação) — Centro Universitário Avantis – UNIAVAN, 2025.

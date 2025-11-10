@@ -31,10 +31,7 @@ Código-Fonte/
 ├── package.json
 └── vite.config.js
 
-markdown
-Copiar código
 
----
 
 ## ⚙️ Tecnologias Utilizadas
 
@@ -63,32 +60,31 @@ Copiar código
 
 ## 🚀 Como Executar o Projeto Localmente
 
-### 🔹 **1. Clonar o repositório**
-```bash
+### 
+
+🔹 **1. Clonar o repositório**
+
 git clone https://github.com/jeanserpa21/Trabalho-de-Conclus-o-de-Curso-TCC-.git
 cd Trabalho-de-Conclus-o-de-Curso-TCC-/Código-Fonte
+
 🔹 2. Configurar o Backend
-bash
-Copiar código
+
 cd backend
 npm install
 Crie o arquivo .env com base no .env.example e configure as variáveis do PostgreSQL:
 
-ini
-Copiar código
+
 DATABASE_URL="postgresql://usuario:senha@localhost:5432/unitrans"
 JWT_SECRET="chave-secreta"
 PORT=3001
 Rodar o servidor:
 
-bash
-Copiar código
+
 npm run dev
 A API será iniciada em http://localhost:3001
 
 🔹 3. Configurar o Frontend
-bash
-Copiar código
+
 cd ../frontend
 npm install
 npm run dev

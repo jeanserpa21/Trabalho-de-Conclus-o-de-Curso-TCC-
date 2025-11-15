@@ -1,1 +1,18 @@
 
+## 📄 Documento Completo do TCC – UniTrans
+
+Esta seção apresenta o **PDF completo do Trabalho de Conclusão de Curso (TCC)** referente ao desenvolvimento do sistema **UniTrans – Plataforma de Gerenciamento de Transporte Universitário**.
+
+No documento estão incluídos:
+
+- Contextualização do problema e justificativa  
+- Fundamentação teórica  
+- Arquitetura do sistema (frontend, backend e banco de dados)  
+- Metodologia aplicada  
+- Modelagem e diagramas  
+- Implementação  
+- Resultados, conclusões e melhorias futuras  
+
+O PDF reúne **toda a pesquisa e documentação oficial** deste projeto, servindo como o registro acadêmico completo do UniTrans.
+
+> 🔗 O arquivo pode ser encontrado na pasta `docs/` deste repositório.
